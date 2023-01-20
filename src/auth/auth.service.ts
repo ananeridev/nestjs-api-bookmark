@@ -9,12 +9,14 @@ export class AuthService {
     
     signup(dto: AuthDto) {
 
-        return {mgs: 'I have sign up'}
+        return { mgs: 'I have sign up' }
     }
 
-    signin() {
+    signin() {        console.log({
+        dto,
+    })
 
-        return {mgs: 'I have sign in'}
+        return { mgs: 'I have sign in' }
 
     }
 }
