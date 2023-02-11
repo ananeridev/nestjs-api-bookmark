@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Api rest using good practices of testing and all nestjs and typescript new features!
 
 ## Installation
 
